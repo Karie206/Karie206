@@ -4,15 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EF715&background=A21EFF00&center=true&vCenter=true&width=435&height=45&lines=Computer+Science+Student!!!;Software+Engineering+%40+DThu;C+%7C+C%2B%2B+%7C+C%23+%7C+Java+Core;Clean+code.+Every.+Single.+Line."/>
 </div>
 
----
-
 - 🔭 Đang theo học chuyên ngành **Công nghệ phần mềm**
 - 🌱 Hiện tại mình đã tìm hiểu đến các ngôn ngữ: C, C++, C#, Java Core
 - 👯 Đang nghiên cứu thêm cũng như ôn tập lại Algorithm
 - 🤔 Khả năng tiếp thu của mình cũng khá ổn
 - ⚡ Fun fact: kỹ đến từng dòng code
-
----
 
 ## 🛠️ Ngôn ngữ lập trình
 
@@ -22,8 +18,6 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
-
----
 
 ## 💻 Công cụ sử dụng
 <p>
@@ -38,16 +32,12 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
----
-
 ## 📊 Thống kê GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Karie206&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karie206&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 </p>
-
----
 
 ## 📬 Liên hệ mình nếu muốn
 
@@ -59,8 +49,6 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
   </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Karie206&style=flat-square&color=blue"/>
