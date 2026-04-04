@@ -1,5 +1,5 @@
 <h1 align="center"><b>Xin chào, mình tên là Thái Kiệt! 👋</b></h1>
-<h1 align="center"><b>Sinh viên ngành Khoa Học Máy Tính (Computer Science)  </b> <img src="https://raw.githubusercontent.com/Karie206/Karie206/main/DthU.png" width="37" height="37"/></h1>
+<h1 align="center"><b>Sinh viên ngành Khoa Học Máy Tính (Computer Science)  </b> <img src="https://raw.githubusercontent.com/Karie206/Karie206/main/DthU.png" width="35" height="35"/></h1>
 
 <br/>
 
