@@ -2,7 +2,7 @@
 <h2 align="center">🎓 Sinh viên KHMT (Computer Science) · </h2>
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Karie206/Karie206/main/DthU.png" width="90" height="90"/>
+  <img src="https://raw.githubusercontent.com/Karie206/Karie206/main/DthU.png" width="34" height="34"/>
   Trường Đại học Đồng Tháp
 </h2>
 
