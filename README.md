@@ -1,4 +1,4 @@
-<h1 align="left">Xin chào, mình tên là Thái Kiệt👋</h1>
+<h1 align="center">Xin chào, mình tên là Thái Kiệt! Nickname là Karie.👋</h1>
 
 <!--
 **Karie206/Karie206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
