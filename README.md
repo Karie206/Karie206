@@ -15,7 +15,7 @@
 <p>- 👯 Đang nghiên cứu thêm cũng như ôn tập lại Algorithm</p>
 <p>- 🤔 Khả năng tiếp thu của mình cũng khá ổn</p>
 <p>- 🌱 Luôn luôn muốn tìm hiểu những cái mới mẻ</p>
-<p><b>- 💪 Not the best, but careful with every single line of code ^^</b></p>
+<p><b>- 💪 Fact: Not the best, but careful with every single line of code ^^</b></p>
 
 <br/>
 
