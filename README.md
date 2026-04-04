@@ -1,9 +1,5 @@
 <h1 align="center">Xin chào, mình tên là Thái Kiệt!👋</h1>
-<h2 align="center">🎓 Sinh viên KHMT(Computer Science) · Trường Đại học Đồng Tháp · TP Cao Lãnh</h2>
-<!--
-**Karie206/Karie206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h2 align="center">🎓 Sinh viên KHMT (Computer Science) · Trường Đại học Đồng Tháp · TP Cao Lãnh</h2>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
