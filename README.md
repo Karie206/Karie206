@@ -1,5 +1,5 @@
 <h1 align="center"><b>Xin chào, mình tên là Thái Kiệt! 👋</b></h1>
-<h2 align="center"><b>🎓 Sinh viên KHMT (Computer Science) · Trường Đại học Đồng Tháp</b> <img src="https://raw.githubusercontent.com/Karie206/Karie206/main/DthU.png" width="35" height="35"/></h2>
+<h1 align="center"><b>🎓 Sinh viên Khoa Học Máy Tính (Computer Science)  </b> <img src="https://raw.githubusercontent.com/Karie206/Karie206/main/DthU.png" width="35" height="35"/></h1>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=&weight=100&size=27&pause=1000&color=2EF715&background=A21EFF00&width=435&height=38&lines=Computer+Science+Student!!!;Software+Engineering+%40+DthU;Love+you+guys+who+read+this!+%E2%9D%A4%EF%B8%8F"/>
 </div>
@@ -14,9 +14,6 @@
 
 ---
 
-
-<br/>
-
 ## 💻 Ngôn ngữ lập trình đang học
 
 <p>
@@ -29,8 +26,11 @@
 
 <br/>
 
+---
+
 ## 🛠️ Một số công cụ sử dụng
 <p>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -45,7 +45,9 @@
 
 <br/>
 
-##📬 Liên hệ mình nếu muốn
+---
+
+## 📬 Liên hệ mình nếu muốn
 
 <p>
   <a href="https://github.com/Karie206">
@@ -66,6 +68,8 @@
 </p>
 
 <br/>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Karie206&style=for-the-badge&color=green"/>
