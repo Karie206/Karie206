@@ -1,5 +1,5 @@
 <h1 align="center">Xin chào, mình tên là Thái Kiệt! 👋</h1>
-<h2 align="center">🎓 Sinh viên KHMT (Computer Science) · Trường Đại học Đồng Tháp <img src="https://raw.githubusercontent.com/Karie206/Karie206/main/DthU.png" width="36" height="36"/></h2>
+<h2 align="center">🎓 Sinh viên KHMT (Computer Science) · Trường Đại học Đồng Tháp <img src="https://raw.githubusercontent.com/Karie206/Karie206/main/DthU.png" width="35" height="35"/></h2>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EF715&background=A21EFF00&center=true&vCenter=true&width=435&height=45&lines=Computer+Science+Student!!!;Software+Engineering+%40+DThu;C+%7C+C%2B%2B+%7C+C%23+%7C+Java+Core;Clean+code.+Every.+Single.+Line."/>
 </div>
@@ -7,9 +7,13 @@
 ---
 
 - 🔭 Đang theo học chuyên ngành **Công nghệ phần mềm**
+- 
 - 🌱 Hiện tại mình đã tìm hiểu đến các ngôn ngữ: C, C++, C#, Java Core
+- 
 - 👯 Đang nghiên cứu thêm cũng như ôn tập lại Algorithm
+- 
 - 🤔 Khả năng tiếp thu của mình cũng khá ổn
+- 
 - ⚡ Fun fact: kỹ đến từng dòng code
 
 ---
