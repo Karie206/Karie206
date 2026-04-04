@@ -1,19 +1,22 @@
-<h1 align="center">Xin chào, mình tên là Thái Kiệt! 👋</h1>
-<h2 align="center">🎓 Sinh viên KHMT (Computer Science) · Trường Đại học Đồng Tháp <img src="https://raw.githubusercontent.com/Karie206/Karie206/main/DthU.png" width="35" height="35"/></h2>
+<h1 align="center"><b>Xin chào, mình tên là Thái Kiệt! 👋</b></h1>
+<h2 align="center"><b>🎓 Sinh viên KHMT (Computer Science) · Trường Đại học Đồng Tháp</b> <img src="https://raw.githubusercontent.com/Karie206/Karie206/main/DthU.png" width="35" height="35"/></h2>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EF715&background=A21EFF00&center=true&vCenter=true&width=435&height=45&lines=Computer+Science+Student!!!;Software+Engineering+%40+DThu;C+%7C+C%2B%2B+%7C+C%23+%7C+Java+Core;Clean+code.+Every.+Single.+Line."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2EF715&background=A21EFF00&center=true&vCenter=true&width=435&height=45&lines=Computer+Science+Student!!!;Software+Engineering+%40+DThu;C+%7C+C%2B%2B+%7C+C%23+%7C+Java+Core;Clean+code.+Every.+Single.+Line."/>
 </div>
 
 ---
 
-- 🔭 Đang theo học chuyên ngành **Công nghệ phần mềm**
-- 🌱 Hiện tại mình đã tìm hiểu đến các ngôn ngữ: C, C++, C#, Java Core
-- 👯 Đang nghiên cứu thêm cũng như ôn tập lại Algorithm
-- 🤔 Khả năng tiếp thu của mình cũng khá ổn
-- ⚡ Fun fact: kỹ đến từng dòng code
+<p>- 🔭 Đang theo học chuyên ngành <b>Công nghệ phần mềm</b></p>
+<p>- 🌱 Hiện tại mình đã tìm hiểu đến các ngôn ngữ: <b>C, C++, C#, Java Core</b></p>
+<p>- 👯 Đang nghiên cứu thêm cũng như ôn tập lại Algorithm</p>
+<p>- 🤔 Khả năng tiếp thu của mình cũng khá ổn</p>
+<p>- ⚡ Fun fact: kỹ lưỡng đến từng dòng code</p>
+
 ---
 
-## 🛠️ Ngôn ngữ lập trình
+<br/>
+
+## 🛠️ Ngôn ngữ lập trình đang học
 
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
@@ -21,6 +24,8 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
+
+<br/>
 
 ## 💻 Công cụ sử dụng
 <p>
@@ -35,12 +40,7 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-## 📊 Thống kê GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karie206&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karie206&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
+<br/>
 
 ## 📬 Liên hệ mình nếu muốn
 
@@ -53,6 +53,8 @@
   </a>
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Karie206&style=flat-square&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=Karie206&style=for-the-badge&color=green"/>
 </p>
