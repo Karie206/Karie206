@@ -10,9 +10,10 @@
 <p>- 🌱 Hiện tại mình đã tìm hiểu đến các ngôn ngữ: <b>C, C++, C#, Java Core</b></p>
 <p>- 👯 Đang nghiên cứu thêm cũng như ôn tập lại Algorithm</p>
 <p>- 🤔 Khả năng tiếp thu của mình cũng khá ổn</p>
-<p>- ⚡ Fun fact: kỹ lưỡng đến từng dòng code</p>
+<p><b>- 💪 Not the best, but careful with every single line of code ^^</b></p>
 
 ---
+
 
 <br/>
 
