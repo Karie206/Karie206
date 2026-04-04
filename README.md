@@ -11,3 +11,47 @@
 - 🤔 Khả năng tiếp thu của mình cũng khá ổn
 - ⚡ Fun fact: kĩ đến từng dòng code
 
+## 🛠️ Ngôn ngữ & Công cụ
+
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 📊 Thống kê GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Karie206&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karie206&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Karie206&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📬 Liên hệ
+
+<p>
+  <a href="https://github.com/Karie206">
+    <img src="https://img.shields.io/badge/GitHub-Karie206-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://facebook.com/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Karie206&style=flat-square&color=blue"/>
+</p>
