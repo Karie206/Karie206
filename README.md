@@ -1,5 +1,5 @@
 <h1 align="center">Xin chào, mình tên là Thái Kiệt!👋</h1>
-<h2 align="center">Mình là một sinh viên ở Trường Đại học Đông Tháp
+<h2 align="center">Mình là một sinh viên ở Trường Đại học Đồng Tháp.</h2>
 <!--
 **Karie206/Karie206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
