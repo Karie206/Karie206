@@ -54,20 +54,20 @@
 
 ---
 
-## 📊 Thống kê chuỗi
+## 📊 Thống kê chi tiết
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=Karie206&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karie206&theme=tokyonight"/>
 </p>
 
-<br/>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karie206&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Karie206&theme=tokyonight"/>
+</p>
 
----
-
-## 📈 Biểu đồ hoạt động
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karie206&theme=tokyo-night"/>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karie206&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Karie206&theme=tokyonight&utcOffset=7"/>
 </p>
 
 <br/>
