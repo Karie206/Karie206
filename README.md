@@ -11,7 +11,7 @@
 
 ## 📝 Sơ lược về bản thân
 <p>- 🎓 Đang theo học chuyên ngành <b>Công nghệ phần mềm</b></p>
-<p>- 🌱 Hiện tại mình đã tìm hiểu đến các ngôn ngữ: <b>C, C++, C#, Java Core,...</b></p>
+<p>- 🌱 Hiện tại mình đã tìm hiểu đến các ngôn ngữ: <b>C, C++, C#, Java Core</b></p>
 <p>- 👯 Đang nghiên cứu thêm cũng như ôn tập lại Algorithm</p>
 <p>- 🤔 Khả năng tiếp thu của mình cũng khá ổn</p>
 <p><b>- 💪 Not the best, but careful with every single line of code ^^</b></p>
