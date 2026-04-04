@@ -7,13 +7,9 @@
 ---
 
 - 🔭 Đang theo học chuyên ngành **Công nghệ phần mềm**
-- 
 - 🌱 Hiện tại mình đã tìm hiểu đến các ngôn ngữ: C, C++, C#, Java Core
-- 
 - 👯 Đang nghiên cứu thêm cũng như ôn tập lại Algorithm
-- 
 - 🤔 Khả năng tiếp thu của mình cũng khá ổn
-- 
 - ⚡ Fun fact: kỹ đến từng dòng code
 
 ---
@@ -29,6 +25,7 @@
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white"/>
 </p>
 
 ---
