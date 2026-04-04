@@ -1,7 +1,7 @@
 <h1 align="center"><b>Xin chào, mình tên là Thái Kiệt! 👋</b></h1>
 <h2 align="center"><b>🎓 Sinh viên KHMT (Computer Science) · Trường Đại học Đồng Tháp</b> <img src="https://raw.githubusercontent.com/Karie206/Karie206/main/DthU.png" width="35" height="35"/></h2>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2EF715&background=A21EFF00&center=true&vCenter=true&width=435&height=45&lines=Computer+Science+Student!!!;Software+Engineering+%40+DThu;C+%7C+C%2B%2B+%7C+C%23+%7C+Java+Core;Clean+code.+Every.+Single.+Line."/>
+  <img src="https://readme-typing-svg.demolab.com?font=&weight=100&size=27&pause=1000&color=2EF715&background=A21EFF00&width=435&height=38&lines=Computer+Science+Student!!!;Software+Engineering+%40+DthU;Love+you+guys+who+read+this!+%E2%9D%A4%EF%B8%8F"/>
 </div>
 
 ---
