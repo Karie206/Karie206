@@ -54,6 +54,26 @@
 
 ---
 
+## 📊 Thống kê
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Karie206&theme=tokyonight"/>
+</p>
+
+<br/>
+
+---
+
+## 📈 Biểu đồ hoạt động
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karie206&theme=tokyo-night"/>
+</p>
+
+<br/>
+
+---
+
 ## 📬 Liên hệ mình nếu muốn
 
 <p>
