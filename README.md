@@ -17,7 +17,7 @@
 
 <br/>
 
-## 🛠️ Ngôn ngữ lập trình đang học
+## 💻 Ngôn ngữ lập trình đang học
 
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
@@ -29,7 +29,7 @@
 
 <br/>
 
-## 💻 Công cụ sử dụng
+## 🛠️ Một số công cụ sử dụng
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
@@ -45,14 +45,23 @@
 
 <br/>
 
-## 📬 Liên hệ mình nếu muốn
+##📬 Liên hệ mình nếu muốn
 
 <p>
   <a href="https://github.com/Karie206">
-    <img src="https://img.shields.io/badge/GitHub-Karie206-181717?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Karie206-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://facebook.com/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
+  
+  <a href="https://facebook.com/](https://www.facebook.com/kariemegame">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+
+  <a href="https://www.tiktok.com/@kariebel?is_from_webapp=1&sender_device=pc">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"/>
+    </a>
+
+  <a href="https://youtube.com/@karie.06s?si=NQx2HkbSMf61izjF">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
   </a>
 </p>
 
