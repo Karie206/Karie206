@@ -4,17 +4,13 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=&size=25&pause=1000&color=2EF715&background=A21EFF00&width=435&lines=Computer+Science+Student!!!;Software+Engineering+%40+DThu;C+%7C+C%2B%2B+%7C+C%23+%7C+Java+Core;Clean+code.+Every.+Single.+Line."/>
 </div>
-
 ---
-
 - 🔭 Đang theo học chuyên ngành **Công nghệ phần mềm**
 - 🌱 Hiện tại mình đã tìm hiểu đến các ngôn ngữ: C, C++, C-Sharp, Java Core
 - 👯 Đang nghiên cứu thêm cũng như ôn tập lại Algorithm
 - 🤔 Khả năng tiếp thu của mình cũng khá ổn
 - ⚡ Fun fact: kĩ đến từng dòng code
-
 ---
-
 ## 🛠️ Ngôn ngữ cũng như là các công cụ mình sử dụng
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
