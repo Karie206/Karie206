@@ -1,17 +1,22 @@
 <h1 align="center"><b>Xin chào, mình tên là Thái Kiệt! 👋</b></h1>
-<h1 align="center"><b>🎓 Sinh viên Khoa Học Máy Tính (Computer Science)  </b> <img src="https://raw.githubusercontent.com/Karie206/Karie206/main/DthU.png" width="35" height="35"/></h1>
+<h1 align="center"><b>Sinh viên ngành Khoa Học Máy Tính (Computer Science)  </b> <img src="https://raw.githubusercontent.com/Karie206/Karie206/main/DthU.png" width="37" height="37"/></h1>
+
+<br/>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=&weight=100&size=27&pause=1000&color=2EF715&background=A21EFF00&width=435&height=38&lines=Computer+Science+Student!!!;Software+Engineering+%40+DthU;Love+you+guys+who+read+this!+%E2%9D%A4%EF%B8%8F"/>
+  <img src="https://readme-typing-svg.demolab.com?font=&weight=100&size=28&pause=1000&color=2EF715&background=A21EFF00&width=435&height=38&lines=Computer+Science+Student!!!;Software+Engineering+%40+DthU;Love+you+guys+who+read+this!+%E2%9D%A4%EF%B8%8F"/>
 </div>
 
 ---
 
 ## 📝 Sơ lược về bản thân
-<p>- 🔭 Đang theo học chuyên ngành <b>Công nghệ phần mềm</b></p>
+<p>- 🎓 Đang theo học chuyên ngành <b>Công nghệ phần mềm</b></p>
 <p>- 🌱 Hiện tại mình đã tìm hiểu đến các ngôn ngữ: <b>C, C++, C#, Java Core</b></p>
 <p>- 👯 Đang nghiên cứu thêm cũng như ôn tập lại Algorithm</p>
 <p>- 🤔 Khả năng tiếp thu của mình cũng khá ổn</p>
 <p><b>- 💪 Not the best, but careful with every single line of code ^^</b></p>
+
+<br/>
 
 ---
 
