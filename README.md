@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EF715&background=A21EFF00&center=true&vCenter=true&width=435&height=45&lines=Computer+Science+Student!!!;Software+Engineering+%40+DThu;C+%7C+C%2B%2B+%7C+C%23+%7C+Java+Core;Clean+code.+Every.+Single.+Line."/>
 </div>
+
 ---
 
 - 🔭 Đang theo học chuyên ngành **Công nghệ phần mềm**
