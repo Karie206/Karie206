@@ -54,7 +54,7 @@
 
 ---
 
-## 📊 Thống kê
+## 📊 Thống kê chuỗi
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=Karie206&theme=tokyonight"/>
