@@ -6,7 +6,7 @@
 
 ---
 
-## 📝 Giới thiệu sơ về bản thân
+## 📝 Sơ lược về bản thân
 <p>- 🔭 Đang theo học chuyên ngành <b>Công nghệ phần mềm</b></p>
 <p>- 🌱 Hiện tại mình đã tìm hiểu đến các ngôn ngữ: <b>C, C++, C#, Java Core</b></p>
 <p>- 👯 Đang nghiên cứu thêm cũng như ôn tập lại Algorithm</p>
