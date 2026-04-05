@@ -34,7 +34,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+        <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C" />
       <br>C
     </td>
     <td align="center" width="96">
@@ -46,7 +46,7 @@
       <br>C#
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="40" alt="Java" />
       <br>Java
     </td>
   </tr>
