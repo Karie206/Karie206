@@ -1,4 +1,7 @@
-<h1 align="center"><b>Hi there, I'm Thái Kiệt! 👋</b></h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:0047ab,100:00b4ff&height=200&section=header&text=Hi%20I'm%20Thái%20Kiệt!%20👋&fontSize=50&fontColor=ffffff&fontAlignY=45&animation=twinkling"/>
+</div>
+
 <h1 align="center"><b>Student majoring in Computer Science  </b> <img src="https://raw.githubusercontent.com/Karie206/Karie206/main/DthU.png" width="35" height="35"/></h1>
 
 <br/>
