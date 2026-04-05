@@ -75,6 +75,16 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karie206&theme=tokyonight&hide_border=true" height="200"/>
+</div>
+
+<br/>
+
+---
+
 ## 📬 Liên hệ mình nếu muốn
 
 <p>
