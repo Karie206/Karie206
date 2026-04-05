@@ -1,5 +1,5 @@
-<h1 align="center"><b>Xin chào, mình tên là Thái Kiệt! 👋</b></h1>
-<h1 align="center"><b>Sinh viên ngành Khoa Học Máy Tính (Computer Science)  </b> <img src="https://raw.githubusercontent.com/Karie206/Karie206/main/DthU.png" width="35" height="35"/></h1>
+<h1 align="center"><b>Hi there, I'm Thái Kiệt! 👋</b></h1>
+<h1 align="center"><b>Student majoring in Computer Science  </b> <img src="https://raw.githubusercontent.com/Karie206/Karie206/main/DthU.png" width="35" height="35"/></h1>
 
 <br/>
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 📝 Sơ lược về bản thân
+## 📝 About Me
 <p>- 🎓 Đang theo học chuyên ngành <b>Công nghệ phần mềm</b></p>
 <p>- 🧑‍💻 Hiện tại mình đã tìm hiểu đến các ngôn ngữ: <b>C, C++, C#, Java Core</b></p>
 <p>- 👯 Đang nghiên cứu thêm cũng như ôn tập lại Algorithm</p>
@@ -21,7 +21,7 @@
 
 ---
 
-## 💻 Ngôn ngữ lập trình đang học
+## 💻 Programming Languages I'm Learning
 <!--
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
@@ -56,7 +56,7 @@
 
 ---
 
-## 🛠️ Một số công cụ sử dụng
+## 🛠️ Tools I Use
 <p>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
@@ -85,7 +85,7 @@
 
 ---
 
-## 📬 Liên hệ mình nếu muốn
+## 📬 Contact Me
 
 <p>
   <a href="https://github.com/Karie206">
