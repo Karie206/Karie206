@@ -1,10 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:0047ab,100:00b4ff&height=200&section=header&text=Hi%20I'm%20Thái%20Kiệt!%20👋&fontSize=50&fontColor=ffffff&fontAlignY=45&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:0047ab,100:00b4ff&height=220&section=header&text=Hi%20I'm%20Thái%20Kiệt!%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Student%20majoring%20in%20Computer%20Science&descAlignY=60&descSize=20&descColor=caffff&animation=twinkling"/>
 </div>
-
-<h1 align="center"><b>Student majoring in Computer Science  </b> <img src="https://raw.githubusercontent.com/Karie206/Karie206/main/DthU.png" width="35" height="35"/></h1>
-
-<br/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=&weight=100&size=28&pause=1000&color=2EF715&background=A21EFF00&width=435&height=38&lines=Computer+Science+Student!!!;Software+Engineering+%40+DthU;Love+you+guys+who+read+this!+%E2%9D%A4%EF%B8%8F"/>
