@@ -102,7 +102,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karie206&theme=tokyonight&hide_border=true" height="300"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karie206&theme=merko&hide_border=true" height="300"/>
 </div>
 
 <br/>
