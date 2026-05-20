@@ -63,7 +63,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=Karie206&theme=gotham&hide_border=true" />
 </p>
 
