@@ -101,7 +101,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Karie206&theme=merko&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Karie206&theme=nord&hide_border=true" />
 </p>
 
 <br/>
