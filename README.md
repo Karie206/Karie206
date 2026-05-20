@@ -64,7 +64,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Karie206&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Karie206&theme=gotham&hide_border=true" />
 </p>
 
 ## 📬 Contact Me
