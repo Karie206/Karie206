@@ -85,5 +85,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Karie206&style=flat&color=00b4a0"/>
+  <img src="https://komarev.com/ghpvc/?username=Karie206&style=flat&color=00897b"/>
 </p>
