@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=&weight=100&size=28&pause=1000&color=1597F7&background=A21EFF00&width=435&height=38&lines=Computer+Science+Student!!!;Software+Engineering+%40+DthU;Love+you+guys+who+read+this!+%E2%9D%A4%EF%B8%8F"/>
 </div>
 
-
 ## 📝 About Me
 
 - 🎓 Studying **Software Engineering** at Dong Thap University
@@ -14,7 +13,6 @@
 - 👯 Exploring and reviewing **Algorithms**
 - 🌱 Always curious about new technologies
 - **💪 Fact: Not the best, but careful with every single line of code ^^**
-
 
 ## 💻 Tech Stack
 
@@ -26,34 +24,39 @@
   <tr>
     <td>Languages</td>
     <td>
-      <img src="https://skillicons.dev/icons?i=c,cpp,cs,java" />
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td>Tools</td>
     <td>
-      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github" />
-      <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td>Database</td>
     <td>
-      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td>Others</td>
     <td>
-      <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Brave-FB542B?style=flat-square&logo=brave&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white"/>
     </td>
   </tr>
 </table>
-
 
 ## 📊 GitHub Stats
 
@@ -61,14 +64,13 @@
   <img src="https://streak-stats.demolab.com?user=Karie206&theme=merko&hide_border=true" />
 </p>
 
-
 ## 📬 Contact Me
 
 <p>
-  <a href="https://github.com/Karie206"><img src="https://img.shields.io/badge/GitHub-Karie206-181717?style=flat-square&logo=github"/></a>
-  <a href="https://www.facebook.com/kariemegame"><img src="https://img.shields.io/badge/Facebook-kariemegame-1877F2?style=flat-square&logo=facebook"/></a>
-  <a href="https://www.tiktok.com/@kariebel"><img src="https://img.shields.io/badge/TikTok-kariebel-000000?style=flat-square&logo=tiktok"/></a>
-  <a href="https://youtube.com/@karie.06s"><img src="https://img.shields.io/badge/YouTube-karie.06s-FF0000?style=flat-square&logo=youtube"/></a>
+  <a href="https://github.com/Karie206"><img src="https://img.shields.io/badge/GitHub-Karie206-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://www.facebook.com/kariemegame"><img src="https://img.shields.io/badge/Facebook-kariemegame-1877F2?style=for-the-badge&logo=facebook"/></a>
+  <a href="https://www.tiktok.com/@kariebel"><img src="https://img.shields.io/badge/TikTok-kariebel-000000?style=for-the-badge&logo=tiktok"/></a>
+  <a href="https://youtube.com/@karie.06s"><img src="https://img.shields.io/badge/YouTube-karie.06s-FF0000?style=for-the-badge&logo=youtube"/></a>
 </p>
 
 <p align="center">
@@ -80,5 +82,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Karie206&style=flat-square&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=Karie206&style=for-the-badge&color=blue"/>
 </p>
