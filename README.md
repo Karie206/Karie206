@@ -9,27 +9,19 @@
 ---
 
 ## 📝 About Me
-<p>- 🎓 Đang theo học chuyên ngành <b>Công nghệ phần mềm</b></p>
-<p>- 🧑‍💻 Hiện tại mình đã tìm hiểu đến các ngôn ngữ: <b>C, C++, C#, Java Core</b></p>
-<p>- 👯 Đang nghiên cứu thêm cũng như ôn tập lại Algorithm</p>
-<p>- 🤔 Khả năng tiếp thu của mình cũng khá ổn</p>
-<p>- 🌱 Luôn luôn muốn tìm hiểu những cái mới mẻ</p>
-<p><b>- 💪 Fact: Not the best, but careful with every single line of code ^^</b></p>
+
+- 🎓 Studying **Software Engineering** at Dong Thap University
+- 🧑‍💻 Currently learning: **C, C++, C#, Java Core**
+- 👯 Exploring and reviewing **Algorithms**
+- 🌱 Always curious about new technologies
+- **💪 Fact: Not the best, but careful with every single line of code ^^**
 
 <br/>
 
 ---
 
-## 💻 Programming Languages I'm Learning
-<!--
-<p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/more...-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
--->
+## 💻 Programming Languages
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -69,7 +61,6 @@
 
 ## 🗄️ Databases
 <p>
-    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 </p>
 
@@ -90,6 +81,7 @@
 ## 🌐 Others
 <p>
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
   <img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white"/>
@@ -119,11 +111,11 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 
-  <a href="https://www.tiktok.com/@kariebel?is_from_webapp=1&sender_device=pc">
+  <a href="https://www.tiktok.com/@kariebel">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"/>
-    </a>
+  </a>
 
-  <a href="https://youtube.com/@karie.06s?si=NQx2HkbSMf61izjF">
+  <a href="https://youtube.com/@karie.06s">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
   </a>
 </p>
