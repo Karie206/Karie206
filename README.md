@@ -73,7 +73,7 @@
 
 <p>
   <a href="https://github.com/Karie206"><img src="https://img.shields.io/badge/GitHub-Karie206-181717?style=flat&logo=github"/></a>
-  <a href="https://www.facebook.com/tr.th.kiet"><img src="https://img.shields.io/badge/Facebook-kariemegame-1877F2?style=flat&logo=facebook"/></a>
+  <a href="https://www.facebook.com/tr.th.kiet"><img src="https://img.shields.io/badge/Facebook-tr.th.kiet-1877F2?style=flat&logo=facebook"/></a>
   <a href="https://www.tiktok.com/@kariebel"><img src="https://img.shields.io/badge/TikTok-kariebel-000000?style=flat&logo=tiktok"/></a>
   <a href="https://youtube.com/@karie.06s"><img src="https://img.shields.io/badge/YouTube-karie.06s-FF0000?style=flat&logo=youtube"/></a>
 </p>
