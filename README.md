@@ -16,158 +16,73 @@
 - 🌱 Always curious about new technologies
 - **💪 Fact: Not the best, but careful with every single line of code ^^**
 
-<br/>
-
 ---
 
-## 💻 Programming Languages
+## 💻 Tech Stack
 
 <table>
   <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" />
-      <br>C
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-      <br>Java
-    </td>
+    <th>Category</th>
+    <th>Technologies</th>
   </tr>
-</table>
-
-<br/>
-
----
-
-## 🛠️ Development Tools
-
-<table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VSCode"/>
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=visualstudio" width="65" height="65" alt="Visual Studio"/>
-      <br>Visual Studio
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=idea" width="65" height="65" alt="NetBeans"/>
-      <br>NetBeans
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Cursor-%23000000?style=for-the-badge&logo=Cursor&logoColor=white"/>
-      <br>Cursor
+    <td>Languages</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=c,cpp,cs,java" />
     </td>
   </tr>
-</table>
-
-<br/>
-
----
-
-## 🗄️ Databases
-
-<table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mssql" width="65" height="65" alt="SQL Server"/>
-      <br>SQL Server
+    <td>Tools</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github" />
+      <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white"/>
     </td>
   </tr>
-</table>
-
-<br/>
-
----
-
-## 🔧 Version Control
-
-<table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git"/>
-      <br>Git
+    <td>Database</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mssql" />
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub"/>
-      <br>GitHub
+  </tr>
+  <tr>
+    <td>Others</td>
+    <td>
+      <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Brave-FB542B?style=flat-square&logo=brave&logoColor=white"/>
     </td>
   </tr>
 </table>
-
-<br/>
-
----
-
-## 🌐 Others
-<p>
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white"/>
-</p>
-
-<br/>
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Karie206&theme=merko&hide_border=true" />
 </p>
-
-<br/>
 
 ---
 
 ## 📬 Contact Me
 
 <p>
-  <a href="https://github.com/Karie206">
-    <img src="https://img.shields.io/badge/GitHub-Karie206-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/kariemegame">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://www.tiktok.com/@kariebel">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"/>
-  </a>
-  <a href="https://youtube.com/@karie.06s">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
-  </a>
+  <a href="https://github.com/Karie206"><img src="https://img.shields.io/badge/GitHub-Karie206-181717?style=flat-square&logo=github"/></a>
+  <a href="https://www.facebook.com/kariemegame"><img src="https://img.shields.io/badge/Facebook-kariemegame-1877F2?style=flat-square&logo=facebook"/></a>
+  <a href="https://www.tiktok.com/@kariebel"><img src="https://img.shields.io/badge/TikTok-kariebel-000000?style=flat-square&logo=tiktok"/></a>
+  <a href="https://youtube.com/@karie.06s"><img src="https://img.shields.io/badge/YouTube-karie.06s-FF0000?style=flat-square&logo=youtube"/></a>
 </p>
-
-<br/>
 
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
   </picture>
 </p>
 
-<br/>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Karie206&style=for-the-badge&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=Karie206&style=flat-square&color=blue"/>
 </p>
