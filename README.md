@@ -33,7 +33,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C" />
+        <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="icon" width="65" height="65" />
       <br>C
     </td>
     <td align="center" width="96">
@@ -45,7 +45,7 @@
       <br>C#
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="40" alt="Java" />
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
       <br>Java
     </td>
   </tr>
