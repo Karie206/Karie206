@@ -48,31 +48,61 @@
 ---
 
 ## 🛠️ Development Tools
-<p>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cursor-%23000000?style=for-the-badge&logo=Cursor&logoColor=white"/>
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VSCode"/>
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=visualstudio" width="65" height="65" alt="Visual Studio"/>
+      <br>Visual Studio
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=idea" width="65" height="65" alt="NetBeans"/>
+      <br>NetBeans
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Cursor-%23000000?style=for-the-badge&logo=Cursor&logoColor=white"/>
+      <br>Cursor
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 ---
 
 ## 🗄️ Databases
-<p>
-    <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mssql" width="65" height="65" alt="SQL Server"/>
+      <br>SQL Server
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 ---
 
 ## 🔧 Version Control
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git"/>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub"/>
+      <br>GitHub
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -106,15 +136,12 @@
   <a href="https://github.com/Karie206">
     <img src="https://img.shields.io/badge/GitHub-Karie206-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  
   <a href="https://www.facebook.com/kariemegame">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-
   <a href="https://www.tiktok.com/@kariebel">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"/>
   </a>
-
   <a href="https://youtube.com/@karie.06s">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
   </a>
