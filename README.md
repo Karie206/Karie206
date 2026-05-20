@@ -102,9 +102,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karie206&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Karie206&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karie206&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karie206&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 <br/>
