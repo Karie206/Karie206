@@ -101,9 +101,11 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karie206&theme=merko&hide_border=true" height="300"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Karie206&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karie206&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 <br/>
 
