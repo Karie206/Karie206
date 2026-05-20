@@ -36,7 +36,6 @@
       <img src="https://img.shields.io/badge/VS_Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white"/>
       <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white"/>
       <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white"/>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
     </td>
