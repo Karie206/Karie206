@@ -53,7 +53,7 @@
         <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white"/>
         <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white"/>
         <img src="https://img.shields.io/badge/Grok-000000?style=flat&logo=x&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat&logo=microsoft-edge&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/Microsoft_Edge-0D7B4F?style=flat&logo=edge-white&logoColor=white"/>
         <img src="https://img.shields.io/badge/Brave-FB542B?style=flat&logo=brave&logoColor=white"/>
         <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/>
         <img src="https://img.shields.io/badge/OBS_Studio-302E31?style=flat&logo=obs-studio&logoColor=white"/>
