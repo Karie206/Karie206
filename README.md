@@ -52,10 +52,10 @@
         <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white"/>
         <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white"/>
         <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Grok-000000?style=flat&logo=x&logoColor=white"/>
         <img src="https://img.shields.io/badge/Brave-FB542B?style=flat&logo=brave&logoColor=white"/>
         <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/>
         <img src="https://img.shields.io/badge/OBS_Studio-302E31?style=flat&logo=obs-studio&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Grok-000000?style=flat&logo=x&logoColor=white"/>
       </td>
   </tr>
 </table>
