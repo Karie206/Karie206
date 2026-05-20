@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=&weight=100&size=28&pause=1000&color=1597F7&background=A21EFF00&width=435&height=38&lines=Computer+Science+Student!!!;Software+Engineering+%40+DthU;Love+you+guys+who+read+this!+%E2%9D%A4%EF%B8%8F"/>
 </div>
 
----
 
 ## 📝 About Me
 
@@ -16,7 +15,6 @@
 - 🌱 Always curious about new technologies
 - **💪 Fact: Not the best, but careful with every single line of code ^^**
 
----
 
 ## 💻 Tech Stack
 
@@ -42,7 +40,7 @@
   <tr>
     <td>Database</td>
     <td>
-      <img src="https://skillicons.dev/icons?i=mssql" />
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -56,7 +54,6 @@
   </tr>
 </table>
 
----
 
 ## 📊 GitHub Stats
 
@@ -64,7 +61,6 @@
   <img src="https://streak-stats.demolab.com?user=Karie206&theme=merko&hide_border=true" />
 </p>
 
----
 
 ## 📬 Contact Me
 
