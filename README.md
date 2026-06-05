@@ -70,7 +70,7 @@
   <img src="https://streak-stats.demolab.com?user=Karie206&theme=gotham&hide_border=true" />
 </p>
 
-## 📬 Contact Me e
+## 📬 Contact Me
 
 <p>
   <a href="https://github.com/Karie206"><img src="https://img.shields.io/badge/GitHub-Karie206-181717?style=flat&logo=github&logoColor=white"/></a>
