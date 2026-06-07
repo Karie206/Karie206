@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:0047ab,100:00b4ff&height=225&section=header&text=Hi%20There,%20I%27m%20Th%C3%A1i%20Ki%E1%BB%87t!%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Student%20majoring%20in%20Computer%20Science&descAlignY=60&descSize=20&descColor=caffff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:0047ab,100:00b4ff&height=225&section=header&text=Hi%20There,%20I%27m%20Th%C3%A1i%20Ki%E1%BB%87t!%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&fontAlignY=38&descAlignY=60&descSize=20&descColor=caffff&animation=twinkling"/>
 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=&weight=100&size=28&pause=1000&color=1597F7&background=A21EFF00&width=435&height=38&lines=Computer+Science+Student.;Love+you+guys+who+read+this!+%E2%9D%A4%EF%B8%8F"/>
 </div>
 
-## 📝 About Me
+## About Me
 
 - 🎓 Studying **Software Engineering** at Dong Thap University
 - 🧑‍💻 Currently learning: **C, C++, C#, Java**
@@ -14,7 +14,7 @@
 - 🌱 Always curious about new technologies
 - **💪 Fact: Not the best, but careful with every single line of code ^^**
 
-## 💻 Tech Stack
+## Tech Stack
 
 <table>
   <tr>
@@ -63,17 +63,17 @@
   </tr>
 </table>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=Karie206&theme=gotham&hide_border=true" />
 </p>
 
-## 📬 Contact Me
+## Contact Me
 
 <p>
   <a href="https://github.com/Karie206"><img src="https://img.shields.io/badge/GitHub-Karie206-181717?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://www.facebook.com/tr.th.kiet"><img src="https://img.shields.io/badge/Facebook-TrThKiet-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
+  <a href="mailto:meyeukltt2012@gmail.com"><img src="https://img.shields.io/badge/Gmail-meyeukltt2012-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.tiktok.com/@kariebel"><img src="https://img.shields.io/badge/TikTok-kariebel-000000?style=flat&logo=tiktok&logoColor=white"/></a>
   <a href="https://youtube.com/@karie.06s"><img src="https://img.shields.io/badge/YouTube-karie.06s-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
 </p>
