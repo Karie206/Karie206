@@ -9,7 +9,7 @@
 ## About Me
 
 - 🎓 Studying **Software Engineering** at Dong Thap University
-- 🧑‍💻 Currently learning: **C++, C#, Java**
+- 🧑‍💻 Currently learning: **Java, C++, C#**
 - 👯 Exploring and reviewing **Algorithms**
 - 🌱 Always curious about new technologies
 - **💪 Fact: Not the best, but careful with every single line of code ^^**
