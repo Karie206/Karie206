@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=&weight=100&size=28&pause=1000&color=1597F7&background=A21EFF00&width=435&height=38&lines=Computer+Science+Student.;Love+you+guys+who+read+this!+%E2%9D%A4%EF%B8%8F"/>
+  <img src="https://readme-typing-svg.demolab.com?font=&weight=100&size=28&pause=1000&color=1597F7&background=A21EFF00&width=435&height=38&lines=Computer+Science+Student.;Thanks+for+visiting!"/>
 </div>
 
 ## About Me
