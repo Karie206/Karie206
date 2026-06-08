@@ -37,8 +37,6 @@
         <img src="https://img.shields.io/badge/IntelliJ_IDEA-606060?style=flat&logo=intellij-idea&logoColor=white"/>
       <img src="https://img.shields.io/badge/Dev_C++-00599C?style=flat"/>
       <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -46,6 +44,13 @@
     <td>
       <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+    </td>
+  </tr>
+    <tr>
+    <td>Version Control</td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
     </td>
   </tr>
   <tr>
