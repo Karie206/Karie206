@@ -10,7 +10,7 @@
 
 - 🎓 Studying **Computer Science** at Dong Thap University
 - 🧑‍💻 Currently learning: **Java, C++, C#, ...**
-- 👯 Exploring and reviewing **Algorithms**
+- 🔍 Gradually exploring frameworks like **ReactJS, Spring Boot, ASP.NET, Node.js**
 - 🌱 Always curious about new technologies
 - **💪 Fact: Not the best, but careful with every single line of code ^^**
 
