@@ -24,7 +24,7 @@
   <tr>
     <td>Tools</td>
     <td>
-      <img src="https://img.shields.io/badge/Anti_Gravity-000000?style=flat&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Anti_Gravity-4285F4?style=flat&logoColor=white"/>
       <img src="https://img.shields.io/badge/VS_Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white"/>
       <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white"/>
       <img src="https://img.shields.io/badge/IntelliJ_IDEA-606060?style=flat&logo=intellij-idea&logoColor=white"/>
