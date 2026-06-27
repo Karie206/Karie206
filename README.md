@@ -27,8 +27,8 @@
       <img src="https://img.shields.io/badge/Anti_Gravity-4285F4?style=flat&logoColor=white"/>
       <img src="https://img.shields.io/badge/VS_Code-00599C?style=flat&logo=visual-studio-code&logoColor=white"/>
       <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white"/>
-      <img src="https://img.shields.io/badge/IntelliJ_IDEA-606060?style=flat&logo=intellij-idea&logoColor=white"/>
       <img src="https://img.shields.io/badge/NetBeans-388E3C?style=flat&logo=apache-netbeans-ide&logoColor=white"/>
+      <img src="https://img.shields.io/badge/IntelliJ_IDEA-606060?style=flat&logo=intellij-idea&logoColor=white"/>
     </td>
   </tr>
   <tr>
