@@ -29,7 +29,7 @@
       <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white"/>
       <img src="https://img.shields.io/badge/IntelliJ_IDEA-606060?style=flat&logo=intellij-idea&logoColor=white"/>
       <img src="https://img.shields.io/badge/Dev_C++-00599C?style=flat"/>
-      <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NetBeans-388E3C?style=flat&logo=apache-netbeans-ide&logoColor=white"/>
     </td>
   </tr>
   <tr>
