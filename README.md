@@ -77,7 +77,7 @@
 
 <p>
   <a href="https://github.com/Karie206"><img src="https://img.shields.io/badge/GitHub-Karie206-181717?style=flat&logo=github&logoColor=white"/></a>
-  <a href="mailto:thaikiet519@gmail.com"><img src="https://img.shields.io/badge/Gmail-meyeukltt2012-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:thaikiet519@gmail.com"><img src="https://img.shields.io/badge/Gmail-thaikiet519-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.tiktok.com/@kariebel"><img src="https://img.shields.io/badge/TikTok-kariebel-000000?style=flat&logo=tiktok&logoColor=white"/></a>
   <a href="https://youtube.com/@karie.06s"><img src="https://img.shields.io/badge/YouTube-karie.06s-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
 </p>
