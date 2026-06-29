@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=&weight=100&size=28&pause=1000&color=cccccc&background=A21EFF00&width=435&height=38&lines=Computer+Science+Student.;Thanks+for+visiting+my+profile!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=&weight=100&size=28&pause=1000&color=cccccc&background=A21EFF00&width=435&height=38&lines=Computer+Science+Student.;Thanks+for+visiting!"/>
 </div>
 
 ## Tech Stack
