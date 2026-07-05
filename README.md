@@ -84,6 +84,6 @@
 
 ## Profile View
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Karie206&style=flat&color=4A9FD8"/>
 </p>
