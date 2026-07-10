@@ -10,10 +10,9 @@
 
 ```java
 public class ThaiKiet {
-    String name    = "Trần Thái Kiệt";
+    String name    = "Tran Thai Kiet";
     String study   = "Computer Science";
-    String school  = "Đại học Đồng Tháp";
-    String from    = "Đồng Tháp, Việt Nam";
+    String school  = "Dong Thap University";
     String[] hobbies = {"Coding", "Gaming", "Marvel"};
     String motto   = "Consistency is beauty!";
 }
