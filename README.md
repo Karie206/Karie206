@@ -1,5 +1,3 @@
-****![](./header_.png)****
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a2a2a,50:555555,100:909090&height=225&section=header&text=Hi%20There,%20I%27m%20Thai%20Kiet!&fontSize=50&fontColor=ffffff&fontAlignY=38&descAlignY=60&descSize=20&descColor=caffff&animation=twinkling"/>
 </div>
