@@ -11,7 +11,8 @@
 ```java
 public class ThaiKiet {
     String name    = "Trần Thái Kiệt";
-    String role    = "Computer Science Student";
+    String study   = "Computer Science";
+    String school  = "Đại học Đồng Tháp";
     String from    = "Đồng Tháp, Việt Nam";
     String[] hobbies = {"Coding", "Gaming", "Marvel"};
     String motto   = "Consistency is beauty!";
