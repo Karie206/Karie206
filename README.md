@@ -8,14 +8,14 @@
 
 ## About Me
 
-```kotlin
-val thaiKiet = Developer(
-    name    = "Tran Thai Kiet",
-    role    = "Computer Science Student",
-    from    = "Dong Thap, Viet Nam",
-    hobbies = listOf("Coding", "Gaming", "Marvel"),
-    motto   = "Consistency is beauty!"
-)
+```java
+public class ThaiKiet {
+    String name    = "Trần Thái Kiệt";
+    String role    = "Computer Science Student";
+    String from    = "Đồng Tháp, Việt Nam";
+    String[] hobbies = {"Coding", "Gaming", "Marvel"};
+    String motto   = "Consistency is beauty!";
+}
 ```
 
 ## Tech Stack
