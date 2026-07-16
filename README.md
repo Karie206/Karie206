@@ -13,7 +13,7 @@ public class ThaiKiet {
     String name    = "Tran Thai Kiet";
     String school  = "Dong Thap University";
     String study   = "Computer Science";
-    String[] hobbies = {"Coding", "Gaming", "Marvel"};
+    String[] hobbies = {"Coding", "Gaming", "Movies"};
     String motto   = "Consistency is beauty!";
 }
 ```
