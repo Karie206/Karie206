@@ -56,6 +56,7 @@ public class ThaiKiet {
         <img src="https://img.shields.io/badge/Grok-000000?style=flat&logo=x&logoColor=white"/>
         <img src="https://custom-icon-badges.demolab.com/badge/Microsoft_Edge-0D7B4F?style=flat&logo=edge-white&logoColor=white"/>
         <img src="https://img.shields.io/badge/Brave-FB542B?style=flat&logo=brave&logoColor=white"/>
+          <img src="https://img.shields.io/badge/LibreWolf-00ACFF?style=flat&logo=librewolf&logoColor=white"/>
         <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white"/>
         <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/>
         <img src="https://img.shields.io/badge/OBS_Studio-302E31?style=flat&logo=obs-studio&logoColor=white"/>
