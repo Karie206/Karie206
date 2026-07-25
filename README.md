@@ -1,10 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a2a2a,50:555555,100:909090&height=225&section=header&text=Hi%20There,%20I%27m%20Thai%20Kiet!&fontSize=50&fontColor=ffffff&fontAlignY=38&descAlignY=60&descSize=20&descColor=caffff&animation=twinkling"/>
-</div>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=&weight=100&size=28&pause=1000&color=cccccc&background=A21EFF00&width=435&height=38&lines=Computer+Science+Student.;Thanks+for+visiting!;DthU+<3">
-</p>
 
 ## About Me
 
@@ -28,9 +21,8 @@ public class ThaiKiet {
   <tr>
     <td>Languages</td>
     <td>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"/>
     </td>
   </tr>
   <tr>
