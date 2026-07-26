@@ -2,11 +2,12 @@
 
 ```java
 public class ThaiKiet {
-    String name    = "Tran Thai Kiet";
-    String school  = "Dong Thap University";
-    String study   = "Computer Science";
-    String[] hobbies = {"Coding", "Gaming", "Movies"};
-    String motto   = "Consistency is beauty!";
+    String name        = "Tran Thai Kiet";
+    String school      = "Dong Thap University";
+    String study       = "Computer Science";
+    String currentGoal = "Looking for a backend developer internship";
+    String[] hobbies   = {"Coding", "Gaming", "Movies"};
+    String motto       = "Consistency is beauty!";
 }
 ```
 
