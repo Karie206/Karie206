@@ -66,7 +66,7 @@ public class ThaiKiet {
 
 ## GitHub Stats
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=Karie206&theme=gotham&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Karie206&theme=github_dark&hide_border=true" />
 </p>
 
 ## Socials
