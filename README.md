@@ -17,12 +17,6 @@ public class ThaiKiet {
   <img src="https://streak-stats.demolab.com?user=Karie206&theme=gotham&hide_border=true" />
 </p>
 
-## Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karie206&theme=gotham&hide_border=true&area=true"/>
-</p>
-
 ## Socials
 <p>
   <a href="https://github.com/Karie206"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
