@@ -7,10 +7,6 @@ public class ThaiKiet {
     String currentGoal = "Looking for a backend developer internship";
     String[] hobbies   = {"Coding", "Gaming", "Movies"};
     String motto       = "Consistency is beauty!";
-
-    public String whatImLearning() {
-        return "Backend engineering and best practices";
-    }
 }
 ```
 
