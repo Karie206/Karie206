@@ -5,7 +5,7 @@ public class ThaiKiet {
     String school      = "Dong Thap University";
     String study       = "Computer Science";
     String currentGoal = "Looking for a backend developer internship";
-    String[] hobbies   = {"Coding", "Gaming", "Movies"};
+    String[] hobbies   = {"Coding", "Movies"};
     String motto       = "Consistency is beauty!";
 }
 ```
