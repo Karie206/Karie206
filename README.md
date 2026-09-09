@@ -7,7 +7,7 @@ public class ThaiKiet {
     String currentGoal = "Looking for a backend developer internship";
     String[] hobbies   = {"Coding", "Movies"};
     String motto       = "Consistency is beauty!";
-}
+}  
 ```
 
 ## Tech Stack
