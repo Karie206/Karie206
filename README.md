@@ -9,7 +9,7 @@ public class ThaiKiet {
     String motto       = "Consistency is beauty!";
 }  
 ``` 
-
+ 
 ## Tech Stack
 <table>
   <tr>
