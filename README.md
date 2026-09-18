@@ -8,8 +8,8 @@ public class ThaiKiet {
     String[] hobbies   = {"Coding", "Movies"};
     String motto       = "Consistency is beauty!";
 }  
-``` 
- 
+```
+
 ## Tech Stack
 <table>
   <tr>
