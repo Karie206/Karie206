@@ -8,7 +8,7 @@ public class ThaiKiet {
     String[] hobbies   = {"Coding", "Movies"};
     String motto       = "Consistency is beauty!";
 }  
-``` 
+```
 
 ## GitHub Stats
 <p align="left">
