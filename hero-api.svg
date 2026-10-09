@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="384" viewBox="0 0 900 384" role="img" aria-label="GET /v1/developers/karie206 — 200 OK: Trần Thái Kiệt, Backend / .NET Developer">
+  <defs>
+    <clipPath id="win"><rect width="900" height="384" rx="12"/></clipPath>
+    <linearGradient id="lat" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#4ade80"/>
+    </linearGradient>
+    <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#ffffff" opacity=".035"/>
+    </pattern>
+  </defs>
+
+  <style>
+    .mono{font-family:'JetBrains Mono','Cascadia Code',Consolas,'SFMono-Regular',Menlo,'Courier New',monospace}
+    .t{font-size:13px}
+    .s{font-size:11px}
+    .ln{fill:#334155}
+    .p{fill:#64748b}
+    .k{fill:#7dd3fc}
+    .v{fill:#fca5a5}
+    .g{fill:#4ade80}
+    .mut{fill:#64748b}
+    .lbl{font-size:10px;letter-spacing:2.5px;fill:#475569}
+    .tagI{fill:#4ade80}
+    .tagD{fill:#a78bfa}
+    .tagS{fill:#fbbf24}
+
+    /* Hiện dần từng phần */
+    .a{opacity:0;animation:fade .35s ease-out forwards}
+    @keyframes fade{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:translateY(0)}}
+
+    /* Gõ URL: tấm che trượt sang phải từng bước */
+    .typing{animation:type 1.5s steps(47) .3s forwards}
+    @keyframes type{to{transform:translateX(368px)}}
+    .caret{animation:caret 1.5s steps(47) .3s forwards, blink .8s steps(1) 1.8s 3}
+    @keyframes caret{to{transform:translateX(368px)}}
+
+    /* Nút Send nháy khi bấm */
+    .send{animation:press .4s ease 1.85s}
+    @keyframes press{40%{fill:#a78bfa}}
+
+    /* Thanh latency chạy */
+    .bar{transform-origin:520px 0;transform:scaleX(0);animation:grow .9s ease-out 2s forwards}
+    @keyframes grow{to{transform:scaleX(1)}}
+
+    .pulse{animation:pulse 1.6s ease-in-out 3.5s infinite}
+    @keyframes pulse{50%{opacity:.2}}
+    .blink{animation:blink 1s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+  </style>
+
+  <g clip-path="url(#win)">
+    <!-- Nền cửa sổ -->
+    <rect width="900" height="384" fill="#0b0f17"/>
+    <rect width="900" height="384" fill="url(#dots)"/>
+
+    <!-- Thanh tiêu đề -->
+    <rect width="900" height="36" fill="#111827"/>
+    <circle cx="22" cy="18" r="6" fill="#ff5f57"/>
+    <circle cx="42" cy="18" r="6" fill="#febc2e"/>
+    <circle cx="62" cy="18" r="6" fill="#28c840"/>
+    <line x1="0" y1="36" x2="900" y2="36" stroke="#1f2937"/>
+
+    <!-- Thanh request -->
+    <rect x="20" y="52" width="860" height="40" rx="7" fill="#0f1522" stroke="#1f2937"/>
+    <rect x="30" y="60" width="52" height="24" rx="4" fill="#4ade80" fill-opacity=".14"/>
+    <text x="56" y="77" text-anchor="middle" class="mono t g" font-weight="700">GET</text>
+    <text x="96" y="77" class="mono t" fill="#e2e8f0">https://api.karie206.dev<tspan class="mut">/v1/developers/</tspan><tspan class="k">karie206</tspan></text>
+    <!-- Tấm che để tạo hiệu ứng gõ -->
+    <rect class="typing" x="94" y="58" width="380" height="28" fill="#0f1522"/>
+    <rect class="caret" x="96" y="64" width="2" height="16" fill="#7dd3fc"/>
+    <!-- Nút Send -->
+    <rect class="send" x="790" y="58" width="82" height="28" rx="5" fill="#7c3aed"/>
+    <text x="831" y="76" text-anchor="middle" class="mono s" fill="#f5f3ff" font-weight="700" letter-spacing="1.5">SEND ▸</text>
+
+    <!-- Dòng trạng thái -->
+    <g class="a" style="animation-delay:3s">
+      <rect x="20" y="104" width="70" height="22" rx="4" fill="#4ade80" fill-opacity=".14"/>
+      <text x="55" y="119" text-anchor="middle" class="mono s g" font-weight="700">200 OK</text>
+      <text x="104" y="119" class="mono s mut">142 ms  ·  1.21 KB  ·  HTTP/2  ·  application/json</text>
+    </g>
+    <text x="520" y="119" class="mono lbl" style="font-size:9px">LATENCY</text>
+    <rect x="580" y="113" width="300" height="4" rx="2" fill="#1f2937"/>
+    <rect class="bar" x="580" y="113" width="300" height="4" rx="2" fill="url(#lat)" style="transform-origin:580px 115px"/>
+
+    <!-- Khung BODY -->
+    <rect x="20" y="140" width="560" height="230" rx="8" fill="#0f1522" stroke="#1f2937"/>
+    <text x="36" y="160" class="mono lbl">RESPONSE BODY</text>
+    <line x1="20" y1="170" x2="580" y2="170" stroke="#1f2937"/>
+
+    <g class="mono t">
+      <g class="a" style="animation-delay:3.1s"><text x="36" y="194" class="ln">1</text><text x="64" y="194" class="p">{</text></g>
+      <g class="a" style="animation-delay:3.2s"><text x="36" y="216" class="ln">2</text><text x="64" y="216" xml:space="preserve"><tspan class="k">  "name"</tspan><tspan class="p">: </tspan><tspan class="v">"Trần Thái Kiệt"</tspan><tspan class="p">,</tspan></text></g>
+      <g class="a" style="animation-delay:3.3s"><text x="36" y="238" class="ln">3</text><text x="64" y="238" xml:space="preserve"><tspan class="k">  "alias"</tspan><tspan class="p">: </tspan><tspan class="v">"Karie"</tspan><tspan class="p">,</tspan></text></g>
+      <g class="a" style="animation-delay:3.4s"><text x="36" y="260" class="ln">4</text><text x="64" y="260" xml:space="preserve"><tspan class="k">  "role"</tspan><tspan class="p">: </tspan><tspan class="v">"Backend / .NET Developer"</tspan><tspan class="p">,</tspan></text></g>
+      <g class="a" style="animation-delay:3.5s"><text x="36" y="282" class="ln">5</text><text x="64" y="282" xml:space="preserve"><tspan class="k">  "edu"</tspan><tspan class="p">: </tspan><tspan class="v">"CS @ Dong Thap University"</tspan><tspan class="p">,</tspan></text></g>
+      <g class="a" style="animation-delay:3.6s"><text x="36" y="304" class="ln">6</text><text x="64" y="304" xml:space="preserve"><tspan class="k">  "status"</tspan><tspan class="p">: </tspan><tspan class="g">"open_to_internship"</tspan><tspan class="p">,</tspan></text><circle class="pulse" cx="332" cy="299.5" r="3.5" fill="#4ade80"/></g>
+      <g class="a" style="animation-delay:3.7s"><text x="36" y="326" class="ln">7</text><text x="64" y="326" xml:space="preserve"><tspan class="k">  "motto"</tspan><tspan class="p">: </tspan><tspan class="v">"Consistency is beauty!"</tspan></text></g>
+      <g class="a" style="animation-delay:3.8s"><text x="36" y="348" class="ln">8</text><text x="64" y="348" class="p">}</text><rect class="blink" x="76" y="336" width="7" height="15" fill="#7dd3fc"/></g>
+    </g>
+
+    <!-- Khung SERVER LOG -->
+    <rect x="592" y="140" width="288" height="230" rx="8" fill="#0d121c" stroke="#1f2937"/>
+    <text x="608" y="160" class="mono lbl">SERVER LOG</text>
+    <circle class="blink" cx="864" cy="157" r="3" fill="#ff5f57"/>
+    <line x1="592" y1="170" x2="880" y2="170" stroke="#1f2937"/>
+
+    <g class="mono s" xml:space="preserve">
+      <text x="606" y="194" class="a" style="animation-delay:2s"><tspan class="tagI">INF</tspan><tspan fill="#cbd5e1">  GET /v1/developers/karie206</tspan></text>
+      <text x="606" y="216" class="a" style="animation-delay:2.18s"><tspan class="tagD">DBG</tspan><tspan fill="#94a3b8">  route → DevelopersController</tspan></text>
+      <text x="606" y="238" class="a" style="animation-delay:2.36s"><tspan class="tagD">DBG</tspan><tspan fill="#94a3b8">  cache miss · query db</tspan></text>
+      <text x="606" y="260" class="a" style="animation-delay:2.54s"><tspan class="tagS">SQL</tspan><tspan fill="#94a3b8">  SELECT * FROM Developers</tspan><tspan class="mut"> 3ms</tspan></text>
+      <text x="606" y="282" class="a" style="animation-delay:2.72s"><tspan class="tagD">DBG</tspan><tspan fill="#94a3b8">  map → DeveloperDto</tspan></text>
+      <text x="606" y="304" class="a" style="animation-delay:2.9s"><tspan class="tagI">INF</tspan><tspan fill="#4ade80">  200 OK · 142ms</tspan></text>
+      <text x="606" y="336" class="a" style="animation-delay:3.2s"><tspan class="mut">waiting for next request</tspan><tspan class="blink" fill="#7dd3fc">_</tspan></text>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="899" height="383" rx="12" fill="none" stroke="#1f2937"/>
+</svg>
