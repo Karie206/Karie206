@@ -6,7 +6,6 @@ public class ThaiKiet {
     String study       = "Computer Science";
     String currentGoal = "Looking for a backend developer internship";
     String[] hobbies   = {"Coding", "Movies"};
-    String motto       = "Consistency is beauty!";
 } 
 ```
 
