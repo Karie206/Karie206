@@ -5,7 +5,6 @@
 ## About Me
 Second-year Computer Science student at Dong Thap University who enjoys building backend systems.  
 Currently looking for a **backend developer internship**.  
-Off the keyboard, I'm usually coding side projects or watching movies.
 
 ## GitHub Stats
 <p align="left">
