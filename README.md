@@ -13,7 +13,6 @@ Currently looking for a **backend developer internship**.
 
 ## Socials
 <p>
-  <a href="https://www.linkedin.com/in/tranthaikiet"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Karie206"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
   <a href="mailto:thaikiet519@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.tiktok.com/@kariebel"><img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white"/></a>
